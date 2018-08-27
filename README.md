@@ -20,7 +20,7 @@ Para Windows se necesita el siguiente paquete https://git-scm.com/download/win
 
 ```
 #!bash
-git clone https://christian130@bitbucket.org/christian130/tresenraya.git
+git clone https://github.com/christian130/tresenraya.git
 
 ```
 
@@ -77,6 +77,6 @@ Para descargar completamente este proyecto desde la rama master, favor pedir per
 
 ```
 #!bash
-https://bitbucket.org/christian130/tresenraya/get/master.zip
+https://github.com/christian130/tresenraya.git
 
 ```
