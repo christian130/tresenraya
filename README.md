@@ -3,10 +3,10 @@
 <!--ts-->
    * [Prefacio](#prefacio)
    * [Como clonar este repositorio](#como-clonar-este-repositorio)
-   * [Seguimiento de este repositorio en https://christian130.000webhostapp.com](#seguimiento)
-   * [Manejo de la metodologia en el proyecto](#manejo)
-   * [Como acceder a la base de datos](#como-acceder)
-   * [Como descargar este repositorio](#como-descargar)
+   * [Seguimiento de este repositorio en](#seguimiento-de-este-repositorio-en)
+   * [Manejo de la metodologia en el proyecto](#manejo-de-la-metodologia-en-el-proyecto)
+   * [Como acceder a la base de datos](#como-acceder-a-la-base-de-datos)
+   * [Como descargar este repositorio](#como-descargar-este-repositorio)
 <!--te-->
 
 Prefacio
@@ -40,7 +40,7 @@ git clone https://github.com/christian130/tresenraya.git
 ```
 
 
-Seguimiento de este repositorio en https://christian130.000webhostapp.com
+Seguimiento de este repositorio en
 =====
 Para ver en pleno funcionamiento en version mas reciente por favor vaya a: https://christian130.000webhostapp.com
 
