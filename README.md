@@ -47,7 +47,7 @@ Para ver en pleno funcionamiento en version mas reciente por favor vaya a: https
 Favor se agradece reportar, sugerir o comentar cualquier detalle relacionados exclusivamente a este proyecto, directamente a sistemasphpvenezuela@gmail.com
 
 
-Manejo de la metodologia en el proyecto
+Manejo de la metodología en el proyecto
 =====
 
 metodologia AGILE tipo SCRUM.
